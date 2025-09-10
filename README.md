@@ -5,7 +5,7 @@ This repository hosts the figures and captions corresponding to our conference p
 ## Poster PDF
 
 ### Figure 1. Circos Chord Diagram of Outcome Flow Circular 
-![Figure 1. Circos Chord Diagram of Outcome Flow Circular ](./figures/fig1_cluster_map.png)  
+![Chord Diagram](./Figure%201.%20Circos%20Chord%20Diagram%20of%20Outcome%20Flow%20Circular.png)
 Circular chord diagram showing how PAS cases and controls distribute into each of the four clusters. Clusters 1 and 2 go with PAS cases; 3 and 4 with controls. Ribbon width corresponds to the number of patients in each cluster.
 
 ### Figure 2. ROC curve
