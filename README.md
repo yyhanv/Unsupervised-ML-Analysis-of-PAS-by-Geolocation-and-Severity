@@ -19,5 +19,19 @@ Same t-SNE layout as Figure 2a, but with color indicating clinical outcome (PAS 
 
 ### Figure 3. Heatmap of Key Blood Markers by Cluster 
 Heatmap of standardized median values for selected hematologic markers: lymphocytes (LYMPH), neutrophils (NEUT), platelet count (PLT), hemoglobin (HG), red cell distribution width (RDW), mean platelet volume (MPV), neutrophil-to-lymphocyte ratio (NtoLR), platelet-to-lymphocyte ratio (PLT), hemoglobin (HG), red cell distribution width (RDW), platelet-to-lymphocyte ratio (PtoLR), across timepoints 1-3.  Annotations include QBL in mL (white to green), cohort (case = red, control = blue), and clusters (1-4). Rows and columns are clustered using Ward D2 with maximum distance scores.
+![Heatmap of Blood Markers](./Figure%203.%20Heatmap%20of%20Key%20Blood%20Markers%20by%20Cluster.png)
 
-If you reference this work, please cite: *[add your preferred citation]*.
+## Citation
+
+If referencing this work, please cite:
+
+**Poster**  
+Jochum, M., Zhang, V., Reed, C., Mendez, Y., Ladron de Guevara, A., Lane, K., Tillery, E., Sarada, S., Shamshirsaz, A., Munoz, J., & Lombaard, H. (2025, October).  
+*Unsupervised machine learning analysis of placenta accreta spectrum by geolocation and severity.*  
+Poster presented at the International Federation of Gynecology and Obstetrics (FIGO) World Congress, Cape Town, South Africa.  
+Department of Obstetrics & Gynecology, Division of Maternal-Fetal Medicine, Baylor College of Medicine, Houston, TX, USA.  
+
+**Repository**  
+Jochum, M., Zhang, V., Reed, C., Mendez, Y., Ladron de Guevara, A., Lane, K., Tillery, E., Sarada, S., Shamshirsaz, A., Munoz, J., & Lombaard, H. (2025). 
+Unsupervised machine learning analysis of placenta accreta spectrum by geolocation and severity. GitHub. 
+https://github.com/yyhanv/Unsupervised-ML-Analysis-of-PAS-by-Geolocation-and-Severity
