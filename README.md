@@ -7,9 +7,7 @@ This repository hosts the figures and captions corresponding to our conference p
 **Unsupervised Machine Learning Analysis of Placenta Accreta Spectrum by Geolocation and Severity**  
 FIGO 2025 · Baylor College of Medicine / Texas Children’s Hospital
 
-[![Poster Preview](assets/PAS_ML_Poster_FIGO2025_preview.jpg)](assets/Placenta Accreta Spectrum Analysis (5).pdf)
-
-🔗 Click the image to view the full poster (PDF).
+![FIGO 2025 Poster](assets/PAS_ML_Poster_FIGO2025.jpg)
 
 
 ### Figure 1. Circos Chord Diagram of Outcome Flow Circular
